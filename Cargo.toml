@@ -1,0 +1,8 @@
+[package]
+name = "telegram-rs"
+version = "0.1.0"
+authors = ["twosatsmaxi@gmail.com"]
+edition = "2021"
+
+[dependencies]
+teloxide-core = "0.10.1"
