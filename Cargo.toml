@@ -2,7 +2,9 @@
 name = "telegram-rs"
 version = "0.1.0"
 authors = ["twosatsmaxi@gmail.com"]
+description = "A mini crate for telegram message formatting"
 edition = "2021"
+license = "MIT"
 
 [dependencies]
 teloxide-core = "0.10.1"
